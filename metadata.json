@@ -1,0 +1,7 @@
+{
+  "name": "OverlayPilot",
+  "description": "Interface mobile completa do OverlayPilot para gerenciamento de overlay VTuber e IA com modos Retrato e Paisagem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
